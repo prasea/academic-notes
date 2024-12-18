@@ -177,5 +177,16 @@ The differences between operating system types aren't absolute, and some OSes ca
 
 
 ## Open Source Operating System
+An Open Source Operating System is an operating system whose copyright holders or owners enable the third parties or the user to use, see, and edit the operating system's source code. We can create an operating system according to our requirements by altering the source code of an open-source operating system.
+
+An Operating System whose source code is open to all and anyone can use, view, or edit is called an open source operating system.
+Similarly, an operating system whose source code is not accessible by the public is known as a closed source operating system. Popular examples of closed operating systems are Microsoft Windows, Mac OS, and Apple iOS.
 
 
+
+### Types of Open Source Operating Systems
+We can classify an open-source operating system as a Linux-based and non-Linux-based open-source operating system.
+
+**Linux-based open source operating system** - The open source operating system which is based on the Linux kernel is known as Linux based open source operating system. (Kernel is responsible for the interface between the computer's hardware and its processes). Examples: Ubuntu, Kali Linux, Linux mint, etc
+
+**Non-Linux based operating system** - An open source operating system that is not based on a Linux kernel operating system is known as a non-Linux based operating system. Example: FreeDOS, ReactOS, Haiku, etc.
